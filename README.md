@@ -1,6 +1,6 @@
 # Stewy releases
 
-Download the latest signed and notarized Stewy build for macOS:
+Download the latest Stewy version for macOS:
 
 ## [Download the latest Stewy release](https://github.com/sstottelaar/stewy-releases/releases/latest)
 
